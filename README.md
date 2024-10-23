@@ -1,8 +1,8 @@
-# React + Vite
+# Tic-Tac-Toe Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple **Tic-Tac-Toe** game built using React. It allows two players to take turns and play the classic game of Tic-Tac-Toe, with the ability to go back in time to a previous move.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Two-player gameplay
+- Time travel to previous game states
+- Winner detection
