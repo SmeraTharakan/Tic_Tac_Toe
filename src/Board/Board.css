@@ -1,0 +1,12 @@
+
+.board-row:after {
+    clear: both;
+    content: '';
+    display: table;
+  }
+  
+.sent {
+    margin-bottom: 30px;
+    font-size: 30px;
+    width: 250px;
+}

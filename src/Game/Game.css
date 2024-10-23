@@ -1,0 +1,48 @@
+#board-info {
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.game{
+    height: 788px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+#back{
+    margin-top: 2px;
+    height: 40px;
+    width: 150px;
+    font-size: larger;
+    
+}
+.game-info {
+    margin-left: 70px;
+
+}
+#info {
+    height: 30px;
+    width: 150px;
+    font-size: 15px;
+    font-weight: 450;
+}
+.game-board {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+ol li::marker {
+    color: aqua;
+}
+
+li{
+    margin-bottom: 10px;
+}
+  

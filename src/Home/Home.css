@@ -1,0 +1,25 @@
+.title {
+    font-size: 80px;
+}
+
+#play {
+    display: block;
+    margin: 100px auto;
+    height: 40px;
+    width: 150px;
+    font-size: larger;
+}
+
+#board-img {
+    display: block;
+    width: auto;
+    height: auto;
+    margin-right: 150px;
+}
+
+.content {
+    height: 788px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
